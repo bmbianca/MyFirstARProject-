@@ -1,0 +1,5 @@
+C:/Users/barbu/Documents/IMR/MyFirstARProject!/.utmp/RelWithDebInfo/2h5x1y4u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/barbu/Documents/IMR/MyFirstARProject!/.utmp/RelWithDebInfo/2h5x1y4u/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/barbu/Documents/IMR/MyFirstARProject!/.utmp/RelWithDebInfo/2h5x1y4u/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/barbu/Documents/IMR/MyFirstARProject!/.utmp/RelWithDebInfo/2h5x1y4u/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/barbu/Documents/IMR/MyFirstARProject!/.utmp/RelWithDebInfo/2h5x1y4u/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
